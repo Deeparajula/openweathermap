@@ -3,9 +3,9 @@ AutomationAssignment
 
 Automation Task : 
 
-Tool - Eclipse Oxygen
-Automation Framework - Selenium WebDriver with TestNG and Java
-Browser - Chrome
+Tool - Eclipse Oxygen,
+Automation Framework - Selenium WebDriver with TestNG and Java,
+Browser - Chrome,
 Website - https://openweathermap.org/
 
 Test cases covered :
